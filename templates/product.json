@@ -51,6 +51,15 @@
             "live_view_icon_blinks": true
           }
         },
+        "image_CRE9J6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-07-10_at_10.44.05_AM.png",
+            "image_link": "",
+            "image_width": 100,
+            "image_alignment": "start"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -92,6 +101,7 @@
         "judge_me_reviews_preview_badge_WyWLED",
         "price",
         "visitors_m3Fnh7",
+        "image_CRE9J6",
         "variant_picker",
         "buy_buttons",
         "addons",
