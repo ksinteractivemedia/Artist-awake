@@ -84,14 +84,6 @@
             "show_shipping_text": true,
             "shipping_text": "<p><strong>Free Shipping & Returns: </strong>On all orders over Rs. 1000</p>"
           }
-        },
-        "trust_badge_NyBMd4": {
-          "type": "trust_badge",
-          "settings": {
-            "trust_badges_text": "<p>Guarantee safe & secure checkout</p>",
-            "trust_badges_image_width": "60%",
-            "position": "below"
-          }
         }
       },
       "block_order": [
@@ -103,8 +95,7 @@
         "variant_picker",
         "buy_buttons",
         "addons",
-        "shipping_VBJFtx",
-        "trust_badge_NyBMd4"
+        "shipping_VBJFtx"
       ],
       "settings": {
         "container": "container",
