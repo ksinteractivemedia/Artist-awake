@@ -45,7 +45,7 @@
           "type": "visitors",
           "settings": {
             "color_scheme": "",
-            "live_views_text": "<strong>{count_number}</strong> <strong>people</strong> are viewing this right now",
+            "live_views_text": "{count_number} people are viewing this right now",
             "live_views_range": "20-30",
             "live_view_duration": "10",
             "live_view_icon_blinks": true
