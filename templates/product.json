@@ -88,7 +88,7 @@
           "settings": {
             "show_delivery_times": false,
             "deliver_text": "Estimated Delivery:",
-            "deliver_days": "7",
+            "deliver_days": "4",
             "date_format": "%b %d",
             "show_shipping_text": true,
             "shipping_text": "<p><strong>Free Shipping & Returns: </strong>On all orders over Rs. 1000</p>"
