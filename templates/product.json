@@ -51,15 +51,6 @@
             "live_view_icon_blinks": true
           }
         },
-        "image_CRE9J6": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Untitled_design_-_2026-07-10T112041.174.png",
-            "image_link": "",
-            "image_width": 100,
-            "image_alignment": "start"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -73,6 +64,15 @@
             "show_atc_button": true,
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
+          }
+        },
+        "image_CRE9J6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_-_2026-07-10T112041.174.png",
+            "image_link": "",
+            "image_width": 100,
+            "image_alignment": "start"
           }
         },
         "addons": {
@@ -114,9 +114,9 @@
         "judge_me_reviews_preview_badge_WyWLED",
         "price",
         "visitors_m3Fnh7",
-        "image_CRE9J6",
         "variant_picker",
         "buy_buttons",
+        "image_CRE9J6",
         "addons",
         "essential_estimated_app_block_YqPptN",
         "shipping_VBJFtx",
