@@ -41,6 +41,16 @@
             "sale_badge_type": "percentage"
           }
         },
+        "visitors_m3Fnh7": {
+          "type": "visitors",
+          "settings": {
+            "color_scheme": "",
+            "live_views_text": "<strong>{count_number}</strong> <strong>people</strong> are viewing this right now",
+            "live_views_range": "20-30",
+            "live_view_duration": "10",
+            "live_view_icon_blinks": true
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -89,6 +99,7 @@
         "title",
         "judge_me_reviews_preview_badge_WyWLED",
         "price",
+        "visitors_m3Fnh7",
         "variant_picker",
         "buy_buttons",
         "addons",
