@@ -340,9 +340,9 @@
         "item_bHzngY": {
           "type": "item",
           "settings": {
-            "header": "How long does it take to process an order?",
+            "header": "How long does it take to process and ship my order?",
             "text_size": "h4",
-            "content": "<p>All the details you love about the original—with a fresh flared block heel and modern square toe. Expertly crafted using soft Nappa leather, this essential style molds and moves with you to keep you comfortably on your feet all day (and night). This boot uses leather sourced from a Leather Working Group-approved trader. The Leather Working Group (LWG) Audit Standards provide transparency and accountability within the leather supply chain—covering energy and water usage.</p>",
+            "content": "<p>Every canvas is made with care. Orders are typically processed within <strong>1–2 business days</strong> and delivered within <strong>4–7 business days</strong> across most locations in India. You'll receive a tracking link as soon as your order ships.</p>",
             "content_page": "",
             "open": true
           }
