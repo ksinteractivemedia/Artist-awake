@@ -360,9 +360,9 @@
         "item_nceVP8": {
           "type": "item",
           "settings": {
-            "header": "What is your return policy?",
+            "header": "Is the canvas ready to hang?",
             "text_size": "h4",
-            "content": "<p>All the details you love about the original—with a fresh flared block heel and modern square toe. Expertly crafted using soft Nappa leather, this essential style molds and moves with you to keep you comfortably on your feet all day (and night). This boot uses leather sourced from a Leather Working Group-approved trader. The Leather Working Group (LWG) Audit Standards provide transparency and accountability within the leather supply chain—covering energy and water usage.</p>",
+            "content": "<p>Yes. Every canvas arrives <strong>fully assembled</strong> with premium hanging hardware already installed. Simply unpack it and hang it on your wall in minutes.</p>",
             "content_page": "",
             "open": false
           }
@@ -370,9 +370,29 @@
         "item_NQRQAp": {
           "type": "item",
           "settings": {
-            "header": "What are your sizing options?",
+            "header": "What if my canvas arrives damaged?",
             "text_size": "h4",
-            "content": "<p>All the details you love about the original—with a fresh flared block heel and modern square toe. Expertly crafted using soft Nappa leather, this essential style molds and moves with you to keep you comfortably on your feet all day (and night). This boot uses leather sourced from a Leather Working Group-approved trader. The Leather Working Group (LWG) Audit Standards provide transparency and accountability within the leather supply chain—covering energy and water usage.</p>",
+            "content": "<p>We carefully package every order to prevent damage during transit. If your canvas arrives damaged or defective, contact us within <strong>48 hours of delivery</strong> with photos of the product and packaging. We'll arrange a replacement at no additional cost.</p>",
+            "content_page": "",
+            "open": false
+          }
+        },
+        "item_UEQTmG": {
+          "type": "item",
+          "settings": {
+            "header": "What is your return policy?",
+            "text_size": "h5",
+            "content": "<p>Since each canvas is made to order, we do not accept returns for change of mind. However, if you receive a damaged, defective, or incorrect product, we'll happily replace it. Your satisfaction is our priority.</p>",
+            "content_page": "",
+            "open": false
+          }
+        },
+        "item_GRcKKV": {
+          "type": "item",
+          "settings": {
+            "header": "Do you offer Cash on Delivery (COD)?",
+            "text_size": "h5",
+            "content": "<p>We Offer <strong>Partial</strong> <strong>Cash on Delivery (Partial COD)</strong> is available on eligible orders and locations. Availability will be shown during checkout.</p>",
             "content_page": "",
             "open": false
           }
@@ -382,7 +402,9 @@
         "item_bHzngY",
         "item_RGMrHr",
         "item_nceVP8",
-        "item_NQRQAp"
+        "item_NQRQAp",
+        "item_UEQTmG",
+        "item_GRcKKV"
       ],
       "custom_css": [
         ".m-collapsible--button {font-weight: 400;}",
