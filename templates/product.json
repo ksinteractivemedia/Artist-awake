@@ -350,9 +350,9 @@
         "item_RGMrHr": {
           "type": "item",
           "settings": {
-            "header": "Do you ship internationally?",
+            "header": "What materials are used for your canvas prints?",
             "text_size": "h4",
-            "content": "<p>All the details you love about the original—with a fresh flared block heel and modern square toe. Expertly crafted using soft Nappa leather, this essential style molds and moves with you to keep you comfortably on your feet all day (and night). This boot uses leather sourced from a Leather Working Group-approved trader. The Leather Working Group (LWG) Audit Standards provide transparency and accountability within the leather supply chain—covering energy and water usage.</p>",
+            "content": "<p>We use <strong>premium textured cotton canvas</strong>, professionally stretched over a <strong>solid pine wood frame</strong>. Each artwork is printed using high-definition, fade-resistant inks to ensure vibrant colors and exceptional durability.</p>",
             "content_page": "",
             "open": false
           }
