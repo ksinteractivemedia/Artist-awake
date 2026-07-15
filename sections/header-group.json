@@ -56,7 +56,7 @@
         ".social-media-links {column-gap: 30px;}"
       ],
       "settings": {
-        "color_scheme": "dark",
+        "color_scheme": "badge-new",
         "color_scheme_menu": "badge-new",
         "header_design": "logo-center-menu-left",
         "container": "container-fluid",
