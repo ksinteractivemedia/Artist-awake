@@ -755,7 +755,8 @@
         "image_LqzGfW": {
           "type": "image",
           "settings": {
-            "image_height": 80,
+            "image": "shopify://shop_images/3_d6b32b18-bfe0-4532-8c84-0ab5c64af49d.png",
+            "image_height": 112,
             "image_link": ""
           }
         },
@@ -764,7 +765,7 @@
           "settings": {
             "custom_svg": "",
             "icon_size": "medium",
-            "text": "New Season Essential",
+            "text": "Timeless Art",
             "text_size": 42,
             "text_link": ""
           }
