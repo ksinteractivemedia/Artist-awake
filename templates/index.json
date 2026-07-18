@@ -791,7 +791,8 @@
         "image_YkTdm3": {
           "type": "image",
           "settings": {
-            "image_height": 80,
+            "image": "shopify://shop_images/2_1bae4e16-32cd-4c31-84c7-53a81bddfdf6.png",
+            "image_height": 112,
             "image_link": ""
           }
         },
@@ -800,7 +801,7 @@
           "settings": {
             "custom_svg": "",
             "icon_size": "medium",
-            "text": "New Season Essential",
+            "text": "Built To Last",
             "text_size": 42,
             "text_link": ""
           }
