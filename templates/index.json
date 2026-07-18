@@ -773,7 +773,8 @@
         "image_HiyPPp": {
           "type": "image",
           "settings": {
-            "image_height": 80,
+            "image": "shopify://shop_images/1_c12c6421-1a74-48dc-bf8c-a04df3f9ed2f.png",
+            "image_height": 112,
             "image_link": ""
           }
         },
@@ -782,7 +783,7 @@
           "settings": {
             "custom_svg": "",
             "icon_size": "medium",
-            "text": "Purposefully Designed",
+            "text": "Crafted With Care",
             "text_size": 42,
             "text_link": ""
           }
