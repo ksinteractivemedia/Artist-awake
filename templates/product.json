@@ -384,7 +384,7 @@
           "type": "item",
           "settings": {
             "header": "What is your return policy?",
-            "text_size": "h5",
+            "text_size": "h4",
             "content": "<p>Since each canvas is made to order, we do not accept returns for change of mind. However, if you receive a damaged, defective, or incorrect product, we'll happily replace it. Your satisfaction is our priority.</p>",
             "content_page": "",
             "open": false
@@ -394,7 +394,7 @@
           "type": "item",
           "settings": {
             "header": "Do you offer Cash on Delivery (COD)?",
-            "text_size": "h5",
+            "text_size": "h4",
             "content": "<p>We Offer <strong>Partial</strong> <strong>Cash on Delivery (Partial COD)</strong> is available on eligible orders and locations. Availability will be shown during checkout.</p>",
             "content_page": "",
             "open": false
