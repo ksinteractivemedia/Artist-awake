@@ -1146,6 +1146,7 @@
         "image_thHpC7",
         "image_hnD8wM"
       ],
+      "disabled": true,
       "custom_css": [
         ".container-full {padding-inline: 0;}"
       ],
